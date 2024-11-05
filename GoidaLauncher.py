@@ -1,0 +1,4 @@
+'''
+GoidaScript
+    developed by VovLer
+'''
