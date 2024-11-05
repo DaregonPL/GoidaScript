@@ -1,4 +1,4 @@
 '''
-GoidaScript
+GoidaScript Launcher
     developed by VovLer
 '''
